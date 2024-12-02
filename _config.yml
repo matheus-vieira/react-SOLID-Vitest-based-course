@@ -10,7 +10,7 @@ plugins:
   - jekyll-remote-theme
 
 show_downloads: true
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-dinky
 # theme: merlot
 # theme: midnight
 # theme: minima
