@@ -3,15 +3,21 @@ layout: default
 title: "1.1 Por que React?"
 ---
 
-React é uma biblioteca JavaScript popular, desenvolvida pelo Facebook, para construir interfaces de usuário (UI). Suas vantagens são:
+React é uma biblioteca JavaScript popular, desenvolvida pelo Facebook, para construir interfaces de usuário (UI).
+
+Suas vantagens são:
 
 ## Foco em Componentes Reutilizáveis
 
-React introduz o conceito de componentes, pequenos blocos modulares que encapsulam comportamento, estilo e estrutura. Isso facilita a manutenção e a escalabilidade do código.
+React introduz o conceito de componentes, pequenos blocos modulares que encapsulam comportamento, estilo e estrutura.
+
+Isso facilita a manutenção e a escalabilidade do código.
 
 ### Virtual DOM
 
-React usa o Virtual DOM para atualizar eficientemente apenas os componentes que mudam, em vez de renderizar toda a página. Isso melhora o desempenho.
+React usa o Virtual DOM para atualizar eficientemente apenas os componentes que mudam, em vez de renderizar toda a página.
+
+> Isso melhora o desempenho.
 
 ### Ecosistema e Comunidade
 
@@ -27,16 +33,16 @@ Suporte para Single Page Applications (SPAs) e integração com ferramentas como
 
 ## Filosofia de React
 
-Unidirecionalidade e Imutabilidade
-
 ### Unidirecionalidade
 
 #### Fluxo de Dados Unidirecional
 
-React utiliza um modelo de fluxo de dados unidirecional, o que significa que os dados fluem de componentes pais para componentes filhos via props. Isso reduz a complexidade e facilita o rastreamento de bugs.
+React utiliza um modelo de fluxo de dados unidirecional, o que significa que os dados fluem de componentes pais para componentes filhos via props.
+
+Isso reduz a complexidade e facilita o rastreamento de bugs.
 
 * Um estado gerenciado em um componente pai pode ser propagado para seus filhos, mantendo consistência.
-Ferramentas como o Redux implementam essa filosofia, garantindo que todas as mudanças de estado sejam previsíveis e controladas.
+  > Ferramentas como o Redux implementam essa filosofia, garantindo que todas as mudanças de estado sejam previsíveis e controladas.
 * Benefício: Simplifica o gerenciamento do estado da aplicação, tornando o comportamento mais previsível e fácil de depurar.
 
 ### Imutabilidade
@@ -46,7 +52,7 @@ Ferramentas como o Redux implementam essa filosofia, garantindo que todas as mud
 Em React, as mudanças no estado ou nos dados são feitas criando novas cópias desses dados em vez de modificar os originais. Isso facilita a detecção de mudanças e a renderização otimizada.
 
 * Ao comparar objetos antigos e novos (shallow comparison), o React identifica facilmente o que precisa ser re-renderizado.
-Por exemplo, funções como setState e hooks como useState seguem essa abordagem.
+  > Por exemplo, funções como setState e hooks como useState seguem essa abordagem.
 * Benefício: Promove código mais seguro e menos propenso a erros, além de facilitar o uso do Virtual DOM.
 
 ## Diferenças principais entre AngularJS e React
@@ -57,7 +63,9 @@ Uma solução completa, ideal para aplicações grandes que exigem muitas funcio
 
 ### React
 
- Mais flexível e modular, permitindo escolhas baseadas na necessidade da aplicação. Ele é amplamente adotado para SPAs e UIs dinâmicas.
+Mais flexível e modular, permitindo escolhas baseadas na necessidade da aplicação.
+
+Ele é amplamente adotado para SPAs e UIs dinâmicas.
 
 | Característica        | AngularJS                                | React                                                       |
 | Tipo                  | Framework completo.                      | Biblioteca focada em UI.                                    |
@@ -71,4 +79,6 @@ Uma solução completa, ideal para aplicações grandes que exigem muitas funcio
 | Dependências          | Inclui tudo o que precisa (completo).    | Necessita de bibliotecas externas para tarefas específicas. |
 | Componentização       | Suporte inicial limitado.                | Componentes altamente reutilizáveis.                        |
 
-[Início](../../) - [Ambiente de Desenvolvimento]({{ '1-introducao-react/1.2-ambiente-desenvolvimento' | relative_url}})
+| |
+|---|--:|
+|[Início](../../) | [Ambiente de Desenvolvimento]({{ '1-introducao-react/1.2-ambiente-desenvolvimento' | relative_url}}) |
