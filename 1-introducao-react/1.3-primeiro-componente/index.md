@@ -3,8 +3,6 @@ layout: default
 title: "1.3 Primeiro Componente"
 ---
 
-## Primeiro Componente em React
-
 Aprender React começa com a criação e renderização de componentes.
 
 Nesta seção, exploraremos como criar componentes funcionais, usar **props** e **estado**, e finalizaremos com uma atividade prática.
