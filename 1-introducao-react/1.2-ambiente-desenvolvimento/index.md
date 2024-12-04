@@ -48,7 +48,7 @@ Vite é uma ferramenta moderna para criar e configurar projetos frontend.
 
 ### Criando o Projeto
 
-#### Inicialize um novo projeto React com Vite:
+#### Inicialize um novo projeto React com Vite
 
 ```bash
 npm create vite@latest my-react-app -- --template react
@@ -64,7 +64,7 @@ O template react já configura um ambiente básico para React.
 cd my-react-app
 ```
 
-#### Instale as dependências:
+#### Instale as dependências
 
 ```bash
 npm install
