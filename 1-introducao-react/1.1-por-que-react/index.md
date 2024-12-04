@@ -81,4 +81,4 @@ Ele é amplamente adotado para SPAs e UIs dinâmicas.
 
 | |
 |---|--:|
-|[Início](../../) | [Ambiente de Desenvolvimento]({{ '1-introducao-react/1.2-ambiente-desenvolvimento' | relative_url}}) |
+|[Início]({{ base_url}}) | [Ambiente de Desenvolvimento]({{ '1-introducao-react/1.2-ambiente-desenvolvimento' | relative_url}}) |

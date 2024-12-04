@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "1.2 Ambiente de Desenvolvimento"
+title: "Ambiente de Desenvolvimento"
 ---
 
 Para desenvolver em React com ferramentas modernas, é importante configurar corretamente o ambiente.

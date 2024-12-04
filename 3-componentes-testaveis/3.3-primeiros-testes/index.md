@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "03 primeiros testes"
+title: "primeiros testes"
 ---
 # Primeiros Testes
 
