@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "1.3 Primeiro Componente"
+title: "Primeiro Componente"
 ---
 
 Aprender React começa com a criação e renderização de componentes.
@@ -13,7 +13,7 @@ Um componente em React é uma função ou classe que retorna uma interface de us
 
 Vamos começar com um **componente funcional**, que é a abordagem moderna e mais usada.
 
-#### Exemplo:
+#### Exemplo
 
 ```jsx
 // Componente funcional simples
@@ -50,7 +50,7 @@ function Greeting(props) {
 ReactDOM.render(<Greeting name="João" />, document.getElementById('root'));
 ```
 
-### **Estado**:
+### **Estado**
 
 O estado é gerenciado internamente e permite que os componentes sejam dinâmicos.
 
@@ -83,7 +83,7 @@ Página "Olá, Mundo" com Componentes Reutilizáveis
 
 Vamos criar uma página simples que exibe uma mensagem de boas-vindas e um contador de cliques, utilizando componentes reutilizáveis.
 
-### Estrutura do Projeto:
+### Estrutura do Projeto
 
 ### **`App.jsx`**
 

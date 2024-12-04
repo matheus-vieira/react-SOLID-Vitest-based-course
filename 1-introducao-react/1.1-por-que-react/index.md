@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "1.1 Por que React?"
+title: "Por que React?"
 ---
 
 React é uma biblioteca JavaScript popular, desenvolvida pelo Facebook, para construir interfaces de usuário (UI).

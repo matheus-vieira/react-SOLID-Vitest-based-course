@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "03 Organização e Reutilização"
+title: "Organização e Reutilização"
 ---
 
 - Princípio de responsabilidade única (Single Responsibility).
