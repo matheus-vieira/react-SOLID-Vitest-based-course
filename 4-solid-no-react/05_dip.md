@@ -2,7 +2,12 @@
 layout: default
 title: "05 dip"
 ---
-# Dependency Inversion Principle (DIP)
+
+> S - Single Responsibility Principle\
+> O - Open/Closed Principle\
+> L - Liskov Substitution Principle\
+> I - Interface Segregation Principle\
+> ***D - Dependency Inversion Principle***
 
 - Uso de contextos e hooks customizados para inversão de dependência.
 

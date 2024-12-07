@@ -1,7 +1,14 @@
 ---
 layout: default
-title: 'SOLID - Single Responsibility Principle (SRP)'
+title: 'SOLID - Princípio da Responsabilidade Única (Single Responsibility Principle - SRP)'
 ---
+
+> ***S - Single Responsibility Principle***\
+> O - Open/Closed Principle\
+> L - Liskov Substitution Principle\
+> I - Interface Segregation Principle\
+> D - Dependency Inversion Principle
+
 O **Princípio de Responsabilidade Única (Single Responsibility Principle - SRP)**, um dos pilares do SOLID, afirma que **cada classe ou componente deve ter apenas uma razão para mudar**.
 
 Em outras palavras, um componente deve ter uma única responsabilidade ou função no sistema.
