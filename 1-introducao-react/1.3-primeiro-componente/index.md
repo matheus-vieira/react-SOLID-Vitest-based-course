@@ -150,5 +150,5 @@ export default Counter;
 Siga os exemplos acima para dominar os fundamentos e pratique criando outros componentes!
 
 | |
-|---|--:|
-|[Ambiente de Desenvolvimento]({{ '1-introducao-react/1.2-ambiente-desenvolvimento' | relative_url}}) | [Hooks Essenciais]({{ '2-conceitos-fundamentais/2.1-hooks-essenciais' | relative_url}}) |
+|---|:--:||--:|
+|[Ambiente de Desenvolvimento]({{ '1-introducao-react/1.2-ambiente-desenvolvimento' | relative_url}}) | [Início]({{ '/' | relative_url}}) | [Hooks Essenciais]({{ '2-conceitos-fundamentais/2.1-hooks-essenciais' | relative_url}}) |

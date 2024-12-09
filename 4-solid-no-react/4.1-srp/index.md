@@ -266,5 +266,5 @@ Aplicar o SRP em React ajuda a manter os componentes:
 > Refatorar para SRP exige prática, mas resulta em código mais limpo e eficiente, alinhado aos princípios do SOLID.
 
 | |
-|---|--:|
-| [Primeiros Testes]({{ '3-componentes-testaveis/3.3-primeiros-testes' | relative_url}}) | [SOLID - Open/Closed Principle (OCP)]({{ '4-solid-no-react/4.2-ocp' | relative_url}})
+|---|:--:||--:|
+| [Primeiros Testes]({{ '3-componentes-testaveis/3.3-primeiros-testes' | relative_url}}) | [Início]({{ '/' | relative_url}}) | [SOLID - Open/Closed Principle (OCP)]({{ '4-solid-no-react/4.2-ocp' | relative_url}})

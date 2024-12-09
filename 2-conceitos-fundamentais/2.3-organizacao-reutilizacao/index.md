@@ -167,5 +167,5 @@ export default ProductList;
 Praticar esses padrões de organização ajudará a escrever um código React mais limpo, escalável e fácil de entender.
 
 | |
-|---|--:|
-| [Renderização condicional e listas]({{ '2-conceitos-fundamentais/2.2-renderizacao-condicional-listas' | relative_url}}) | [Componentes Desacoplados]({{ '3-componentes-testaveis/3.1-componentes-desacoplados' | relative_url}}) |
+|---|:--:||--:|
+| [Renderização condicional e listas]({{ '2-conceitos-fundamentais/2.2-renderizacao-condicional-listas' | relative_url}}) | [Início]({{ '/' | relative_url}}) | [Componentes Desacoplados]({{ '3-componentes-testaveis/3.1-componentes-desacoplados' | relative_url}}) |

@@ -257,5 +257,5 @@ O Princípio da Segregação de Interface em React é essencial para:
 Aplicar o ISP resulta em um código mais coeso, reutilizável e alinhado às melhores práticas de desenvolvimento.
 
 |   |
-|---|--:|
-| [SOLID - Liskov Substitution Principle - (LSP)]({{ '4-solid-no-react/4.3-lsp' | relative_url}}) | [SOLID - Dependency Inversion Principle (DIP)]({{ '4-solid-no-react/4.5-dip' | relative_url}}) |
+|---|:--:||--:|
+| [SOLID - Liskov Substitution Principle - (LSP)]({{ '4-solid-no-react/4.3-lsp' | relative_url}}) | [Início]({{ '/' | relative_url}}) | [SOLID - Dependency Inversion Principle (DIP)]({{ '4-solid-no-react/4.5-dip' | relative_url}}) |

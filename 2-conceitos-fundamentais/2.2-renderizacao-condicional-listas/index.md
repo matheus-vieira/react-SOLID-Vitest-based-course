@@ -196,5 +196,5 @@ export default ProductList;
 Pratique essas técnicas para dominar a criação de interfaces interativas e bem estruturadas em React!
 
 | |
-|---|--:|
-|[Hooks Essenciais]({{ '2-conceitos-fundamentais/2.1-hooks-essenciais' | relative_url}}) | [Organização e Reutilização]({{ '2-conceitos-fundamentais/2.3-organizacao-reutilizacao' | relative_url}}) |
+|---|:--:||--:|
+|[Hooks Essenciais]({{ '2-conceitos-fundamentais/2.1-hooks-essenciais' | relative_url}}) | [Início]({{ '/' | relative_url}}) | [Organização e Reutilização]({{ '2-conceitos-fundamentais/2.3-organizacao-reutilizacao' | relative_url}}) |

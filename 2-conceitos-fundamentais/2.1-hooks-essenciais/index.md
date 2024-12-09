@@ -113,5 +113,5 @@ Em React, o gerenciamento de estado e efeitos colaterais é mais granular e modu
 React Hooks eliminam a necessidade de um ciclo de vida complexo como o `$digest` do AngularJS.
 
 | |
-|---|--:|
-|[Primeiro Componente]({{ '1-introducao-react/1.3-primeiro-componente' | relative_url}})| [Renderização condicional e listas]({{ '2-conceitos-fundamentais/2.2-renderizacao-condicional-listas' | relative_url}}) |
+|---|:--:||--:|
+|[Primeiro Componente]({{ '1-introducao-react/1.3-primeiro-componente' | relative_url}}) | [Início]({{ '/' | relative_url}}) | [Renderização condicional e listas]({{ '2-conceitos-fundamentais/2.2-renderizacao-condicional-listas' | relative_url}}) |

@@ -222,5 +222,5 @@ Criar componentes testáveis e extensíveis que promovem reutilização e modula
 O uso do LSP resulta em um código mais robusto, previsível e fácil de escalar.
 
 |   |
-|---|--:|
-| [SOLID - Open/Closed Principle - (OCP)]({{ '4-solid-no-react/4.2-ocp' | relative_url}}) | [SOLID - Interface Segregation Principle (ISP)]({{ '4-solid-no-react/4.4-isp' | relative_url}}) |
+|---|:--:||--:|
+| [SOLID - Open/Closed Principle - (OCP)]({{ '4-solid-no-react/4.2-ocp' | relative_url}}) | [Início]({{ '/' | relative_url}}) | [SOLID - Interface Segregation Principle (ISP)]({{ '4-solid-no-react/4.4-isp' | relative_url}}) |

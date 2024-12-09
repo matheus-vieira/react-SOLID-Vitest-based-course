@@ -80,5 +80,5 @@ Ele é amplamente adotado para SPAs e UIs dinâmicas.
 | Componentização       | Suporte inicial limitado.                | Componentes altamente reutilizáveis.                        |
 
 | |
-|---|--:|
-|[Início]({{ base_url}}) | [Ambiente de Desenvolvimento]({{ '1-introducao-react/1.2-ambiente-desenvolvimento' | relative_url}}) |
+|---|:--:||--:|
+| &nbsp; | [Início]({{ '/' | relative_url}}) | [Ambiente de Desenvolvimento]({{ '1-introducao-react/1.2-ambiente-desenvolvimento' | relative_url}}) |

@@ -81,5 +81,5 @@ O terminal exibirá um link como [`http://localhost:5173`](http://localhost:5173
 Acesse no navegador para visualizar o projeto.
 
 | |
-|---|--:|
-|[Por que React]({{ '1-introducao-react/1.1-por-que-react' | relative_url}}) | [Primeiro Componente]({{ '1-introducao-react/1.3-primeiro-componente' | relative_url}}) |
+|---|:--:||--:|
+|[Por que React]({{ '1-introducao-react/1.1-por-que-react' | relative_url}}) | [Início]({{ '/' | relative_url}}) | [Primeiro Componente]({{ '1-introducao-react/1.3-primeiro-componente' | relative_url}}) |

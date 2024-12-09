@@ -175,5 +175,5 @@ Para aplicativos maiores, bibliotecas como Redux, Zustand ou MobX podem ser usad
 Adote essas práticas para criar aplicações React bem organizadas e de fácil manutenção.
 
 | |
-|---|--:|
-| [Organização e Reutilização]({{ '2-conceitos-fundamentais/2.3-organizacao-reutilizacao' | relative_url}}) | [Introdução Vitest]({{ '3-componentes-testaveis/3.2-introdução-vitest' | relative_url}}) |
+|---|:--:||--:|
+| [Organização e Reutilização]({{ '2-conceitos-fundamentais/2.3-organizacao-reutilizacao' | relative_url}}) | [Início]({{ '/' | relative_url}}) | [Introdução Vitest]({{ '3-componentes-testaveis/3.2-introdução-vitest' | relative_url}}) |

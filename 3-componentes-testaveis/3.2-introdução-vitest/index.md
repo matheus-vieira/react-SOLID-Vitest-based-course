@@ -154,5 +154,5 @@ Reutilização de familiaridade com APIs semelhantes às do Jest.
 Pratique configurando o Vitest em um projeto e compare o desempenho com outras bibliotecas de teste para entender como ele pode beneficiar o seu fluxo de trabalho.
 
 | |
-|---|--:|
-| [Componentes Desacoplados]({{ '3-componentes-testaveis/3.1-componentes-desacoplados' | relative_url}}) | [Primeiros Testes]({{ '3-componentes-testaveis/3.3-primeiros-testes' | relative_url}}) |
+|---|:--:||--:|
+| [Componentes Desacoplados]({{ '3-componentes-testaveis/3.1-componentes-desacoplados' | relative_url}}) | [Início]({{ '/' | relative_url}}) | [Primeiros Testes]({{ '3-componentes-testaveis/3.3-primeiros-testes' | relative_url}}) |

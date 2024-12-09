@@ -228,5 +228,5 @@ O Princípio da Inversão de Dependência (DIP) em React pode ser aplicado com:
 Essa abordagem melhora a modularidade, testabilidade e escalabilidade do sistema, criando componentes mais robustos e alinhados aos princípios SOLID.
 
 |   |
-|---|--:|
-| [SOLID - Interface Segregation Principle (ISP)]({{ '4-solid-no-react/4.4-isp' | relative_url}}) | [SOLID - Open/Closed Principle - (OCP)]({{ '5-projetos-avancados-tdd/5.1-hooks-customizados' | relative_url}}) |
+|---|:--:||--:|
+| [SOLID - Interface Segregation Principle (ISP)]({{ '4-solid-no-react/4.4-isp' | relative_url}}) | [Início]({{ '/' | relative_url}}) | [SOLID - Open/Closed Principle - (OCP)]({{ '5-projetos-avancados-tdd/5.1-hooks-customizados' | relative_url}}) |

@@ -202,5 +202,5 @@ Escolha entre HOCs ou `Render Props` depende da clareza e do uso pretendido.
 Aplicar o OCP com HOCs e `Render Props` resulta em componentes modulares, reutilizáveis e alinhados com boas práticas de desenvolvimento.
 
 | |
-|---|--:|
-| [SOLID - Open/Closed Principle - (OCP)]({{ '4-solid-no-react/4.1-srp' | relative_url}}) | [SOLID - Liskov Substitution Principle (LSP)]({{ '4-solid-no-react/4.3-lsp' | relative_url}}) |
+|---|:--:||--:|
+| [SOLID - Open/Closed Principle - (OCP)]({{ '4-solid-no-react/4.1-srp' | relative_url}}) | [Início]({{ '/' | relative_url}}) | [SOLID - Liskov Substitution Principle (LSP)]({{ '4-solid-no-react/4.3-lsp' | relative_url}}) |

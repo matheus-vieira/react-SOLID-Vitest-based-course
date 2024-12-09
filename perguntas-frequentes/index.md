@@ -151,3 +151,7 @@ O lifecycle refere-se ao ciclo de vida de um componente React, desde sua criaç�
 2. Context API: Compartilhe dependências entre componentes sem passar props intermediárias.
 3. Custom Hooks: Encapsule lógica compartilhada em hooks reutilizáveis.
 4. Design com Responsabilidade Única: Garanta que cada componente tenha uma única responsabilidade, minimizando dependências desnecessárias.
+
+|   |
+|---|:--:||--:|
+| &nbsp; | [Início]({{ '/' | relative_url}}) | &nbsp; |

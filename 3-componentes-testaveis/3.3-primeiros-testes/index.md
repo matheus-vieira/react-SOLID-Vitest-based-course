@@ -174,5 +174,5 @@ Com esses conceitos, você pode escrever testes mais confiáveis e criar compone
 Experimente aplicar os exemplos em um projeto real para consolidar os conhecimentos!
 
 | |
-|---|--:|
-| [Introdução Vitest]({{ '3-componentes-testaveis/3.2-introdução-vitest' | relative_url}}) | [SOLID - Single Responsibility Principle (SRP)]({{ '4-solid-no-react/4.1-srp' | relative_url}})
+|---|:--:||--:|
+| [Introdução Vitest]({{ '3-componentes-testaveis/3.2-introdução-vitest' | relative_url}}) | [Início]({{ '/' | relative_url}}) | [SOLID - Single Responsibility Principle (SRP)]({{ '4-solid-no-react/4.1-srp' | relative_url}})
