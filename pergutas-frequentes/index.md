@@ -46,6 +46,7 @@ title: Perguntas Frequentes sobre React
 ## Como você gerencia o estado em React?
 
 1. **Estado Local:** Gerenciado dentro de um único componente usando o hook `useState`.
+
    ```javascript
    const [count, setCount] = useState(0);
    ```
@@ -62,7 +63,7 @@ title: Perguntas Frequentes sobre React
 
 O lifecycle refere-se ao ciclo de vida de um componente React, desde sua criação até sua desmontagem.
 
-### Fases do Lifecycle:
+### Fases do Lifecycle
 
 1. **Montagem (Mounting):** Quando o componente é criado e inserido no DOM.
     - `useEffect` com dependência vazia: Para lógica executada apenas na montagem.
@@ -129,7 +130,6 @@ O lifecycle refere-se ao ciclo de vida de um componente React, desde sua criaç�
 3. Code Splitting: Divida o código em partes carregadas sob demanda com React.lazy.
 4. Evite Prop Drilling: Use Context API ou gerenciadores globais para evitar passar props profundamente.
 5. Virtualização: Use bibliotecas como react-window para renderizar apenas os elementos visíveis.
-
 
 ---
 
